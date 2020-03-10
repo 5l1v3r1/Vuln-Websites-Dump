@@ -3,3 +3,38 @@ user: mailtest@drukka.hu
 Pass: 9u&wB}eq
 PORT: 587
 -----------------------------------------
+HostName: smtp.gmail.com
+user: app99.noreply@gmail.com
+Pass: Apostolic0016
+PORT: 587
+-----------------------------------------
+HostName: smtp.gmail.com
+user: zbranoreply@gmail.com
+Pass: "abobora123"
+PORT: 587
+-----------------------------------------
+HostName: smtp.gmail.com
+user: 
+Pass: 
+PORT: 587
+-----------------------------------------
+HostName: mail.unitedarabco.com
+user: "info@unitedarabco.com"
+Pass: "v8G~vTj*l9N0"
+PORT: 587
+-----------------------------------------
+HostName: smtp.gmail.com
+user: pegvvm@gmail.com
+Pass: PEGvvm888
+PORT: 587
+-----------------------------------------
+HostName: smtp.gmail.com
+user: pegvvm@gmail.com
+Pass: PEGvvm888
+PORT: 587
+-----------------------------------------
+HostName: smtp.gmail.com
+user: support@chodichvu.net
+Pass: congchinh123
+PORT: 465
+-----------------------------------------
