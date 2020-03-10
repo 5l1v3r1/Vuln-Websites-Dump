@@ -1,2 +1,8 @@
 rtps.kpi.ua/sites/default/files/vuln.php?cmd=id
 rtps.kpi.ua/sites/default/files/up.php?cmd=pwd
+www.genuinefauxfarm.com/vuln.php?cmd=id
+www.firstclassschool.com/vendor/phpunit/phpunit/src/Util/PHP/up.php
+knightsbridgeenergy.com.ng/vuln.php?cmd=id
+www.food.aimentechnologies.com/wp-content/vuln.php
+www.food.aimentechnologies.com/wp-content/vuln.php
+www.food.aimentechnologies.com/wp-content/vuln.php
