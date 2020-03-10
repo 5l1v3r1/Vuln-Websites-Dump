@@ -1,3 +1,4 @@
+Open the first Link To see more info
 http://watpho.com/.env
  Host:  127.0.0.1
  user:  homestead
@@ -10,3 +11,59 @@ Full Config Path  : http://ctgroup.ro/wp-admin/admin-ajax.php?action=revslider_s
  pass:  ct_12354
  DB:    ctgrou16_wp
 ---------------------
+www.startupacademy.hu/.env
+ Host:  127.0.0.1
+ user:  startupa_admin
+ pass:  sW1CU1NA
+ DB:    startupa_newsletter
+---------------------
+www.softocraft.com/.env
+ Host:  127.0.0.1
+ user:  root
+ pass:  
+ DB:    blog
+---------------------
+www.firstclassschool.com/.env
+ Host:  localhost
+ user:  mkrtmfcp_admin
+ pass:  Apostolic0016@
+ DB:    mkrtmfcp_firstclass
+---------------------
+afitec.net/.env
+ Host:  mysql.afitec.net
+ user:  afitec
+ pass:  nescau9523
+ DB:    afitec
+---------------------
+hoatuanhotel.com/.env
+ Host:  localhost
+ user:  hoatuanh_main
+ pass:  Nhunguyen@123
+ DB:    hoatuanh_main
+---------------------
+www.roadlineco.com/.env
+ Host:  panadoranet2.ipagemysql.com
+ user:  roadlineco
+ pass:  roadlineco@19
+ DB:    roadlineco
+---------------------
+www.vvmanagement.com/.env
+ Host:  127.0.0.1
+ user:  vvmanage_admin1
+ pass:  test1234!@#$
+ DB:    vvmanage_pe-group
+---------------------
+pegroupholding.com/.env
+ Host:  localhost
+ user:  admin_vipnetvn
+ pass:  ccn1@3$5^
+ DB:    admin_vipnetvn
+---------------------
+www.schiltronclothing.com/.env
+ Host:  mysql006.phy.heteml.lan
+ user:  _papa
+ pass:  papa0508
+ DB:    _papa
+---------------------
+vipnet.vn/.env
+papa2.jp/.env
