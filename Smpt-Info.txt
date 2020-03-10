@@ -1,0 +1,5 @@
+HostName: cpanel.smbbest.hu
+user: mailtest@drukka.hu
+Pass: 9u&wB}eq
+PORT: 587
+-----------------------------------------
