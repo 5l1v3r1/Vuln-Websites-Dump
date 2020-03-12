@@ -6,3 +6,6 @@ knightsbridgeenergy.com.ng/vuln.php?cmd=id
 www.food.aimentechnologies.com/wp-content/vuln.php
 www.food.aimentechnologies.com/wp-content/vuln.php
 www.food.aimentechnologies.com/wp-content/vuln.php
+gacnz.com/admin/controller/extension/extension/up.php
+rpmplus.com.ar/wp-content/themes/Avada/framework/plugins/revslider/temp/update_extract/vuln.php
+www.elstavale.co.uk/vuln.php?cmd=id
