@@ -1,0 +1,8 @@
+http://gacnz.com/admin/index.php
+ Username: admin
+ Password: admin123
+-----------------------------------------
+http://glassesinside.com/admin/index.php
+ Username: admin
+ Password: admin
+-----------------------------------------
