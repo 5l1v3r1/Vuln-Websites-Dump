@@ -28,3 +28,6 @@ pop.librairie-magnetisme.com/images/vuln.txt
 24-hourexpress.com/wp-content/_input_3_vuln.htm
 protrainracing.co.uk/images/pwn(313).gif
 legs11.co.za/images/vuln.txt
+rpmplus.com.ar/wp-content/themes/Avada/framework/plugins/revslider/temp/update_extract/pwn.gif
+www.elstavale.co.uk/vuln.htm
+www.carleycorp.com/wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css
