@@ -1,1 +1,3 @@
 deniksdigital.com/wp-admin/setup-config.php
+aatimin.ru/wp-admin/setup-config.php
+coinmasterfreespin.club/wp-admin/setup-config.php
